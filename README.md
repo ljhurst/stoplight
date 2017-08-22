@@ -3,6 +3,7 @@ Code for making my stoplight fun again
 
 ### Some intial ideas
 * Mimick a real stoplight
+* Indicate when we should do something (water plants)
 * Flash along with music
 * Flash for a sports score
 * Make controllable remotely
